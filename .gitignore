@@ -1,0 +1,9 @@
+
+# Ignoring the catch for python
+.vscode
+.DS_Store
+__pycache__
+files
+output
+*.exe
+*.csv
